@@ -2,3 +2,6 @@
 	path = themes/minimo
 	url = https://github.com/MunifTanjim/minimo
   ignore = dirty
+[submodule "public"]
+	path = public
+	url = https://github.com/rymdklubben/rymdklubben.github.io.git
